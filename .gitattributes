@@ -1,0 +1,9 @@
+*.jpg binary
+*.html linguist-vendored
+*.woff2 binary
+src/** linguist-detectable
+*.htm linguist-vendored
+build/* linguist-vendored
+*.md linguist-documentation
+*.png binary
+# eof 39f20f22
